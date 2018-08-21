@@ -6,6 +6,7 @@ just my assembly project, features a spinning cube and pyramid in 3D
 3. Type the commands without '
 
 3.a. Type in 'cycles=max'
+
 3.b. Type in 'mount c path_to_bin_directory' (path to bin directory is the path where you put the bin directory)
 
 3. Type in 'c:'
