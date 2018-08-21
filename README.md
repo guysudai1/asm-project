@@ -1,12 +1,13 @@
 # asm-project
 just my assembly project, features a spinning cube and pyramid in 3D
 # how-to-launch
-1.Install dosbox
-2.Open dosbox
-2.a. Type in cycles=max
-2.b. Type in mount c path_to_bin_directory (path to bin directory is the path where you put the bin directory)
-3. Type in c:
-4. Type in: base
+1. Install dosbox.
+2. Open dosbox.
+2. Type the commands without '
+2.a. Type in 'cycles=max'
+2.b. Type in 'mount c path_to_bin_directory' (path to bin directory is the path where you put the bin directory)
+3. Type in 'c:'
+4. Type in: 'base'
 
 # instructions
 
