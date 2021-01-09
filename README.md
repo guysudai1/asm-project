@@ -18,3 +18,7 @@ just my assembly project, features a spinning cube and pyramid in 3D
 1. Use the up / down arrows in the first menu.
 2. In the second menu press tab in order to change between both of the boxes.
 3. Use the arrow keys to move the shape, and press r to return to the first menu.
+
+# Demo
+
+![](https://youtu.be/wihnbbgqQT0)
