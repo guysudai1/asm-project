@@ -21,4 +21,4 @@ just my assembly project, features a spinning cube and pyramid in 3D
 
 # Demo
 
-![](https://www.youtube.com/embed/W5JaCtJPCSo)
+[![](https://img.youtube.com/vi/wihnbbgqQT0/0.jpg)](https://www.youtube.com/watch?v=wihnbbgqQT0)
